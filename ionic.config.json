@@ -1,0 +1,7 @@
+{
+  "name": "PruebaLineupBuilder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
